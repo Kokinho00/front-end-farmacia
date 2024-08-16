@@ -9,8 +9,8 @@ module.exports = {
       colors: {
         transparent: 'transparent',
         current: 'currentColor',
-        'preto': '#000000',
-        'quaseBranco': '#000000',
+        'vermelho': '#000000',
+        'quaseBranco': '#40e0d0',
         'papayaWhip': '##FFEFD5',
         'peachPuff': '##FFDAB9',
         'paleGoldenrod': '##EEE8AA'
