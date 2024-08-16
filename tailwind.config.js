@@ -5,7 +5,18 @@ module.exports = {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        transparent: 'transparent',
+        current: 'currentColor',
+        'preto': '#000000',
+        'quaseBranco': '#000000',
+        'papayaWhip': '##FFEFD5',
+        'peachPuff': '##FFDAB9',
+        'paleGoldenrod': '##EEE8AA'
+      },
+    },
   },
   plugins: [],
 }
+
